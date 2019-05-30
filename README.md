@@ -1,6 +1,6 @@
-## Scene para Oferenda de Java
+## Scene para Oferenda do R
 
-Demo -> https://castrolol.github.io/oferenda-prank/
+Demo -> https://carlosrabelo.github.io/oferenda-prank/
 
 
 ### Getting Started
